@@ -1,0 +1,522 @@
+[
+  {
+    "Ward": null,
+    "Rep_Location": "(41.914162246824496, -87.63551341968981)",
+    "RQCount": 15,
+    "Avg_DaysToComplete": 12.67,
+    "Avg_PremisedBaited": 1.42,
+    "Avg_PremiseswGarbage": 1.82,
+    "Avg_PremiseswRats": 1.67,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 0,
+    "Rep_Location": "(41.95265151175111, -87.81222540015412)",
+    "RQCount": 2,
+    "Avg_DaysToComplete": 17,
+    "Avg_PremisedBaited": 0,
+    "Avg_PremiseswGarbage": 0,
+    "Avg_PremiseswRats": 0,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 1,
+    "Rep_Location": "(41.94039391591922, -87.68568630220021)",
+    "RQCount": 7517,
+    "Avg_DaysToComplete": 15.19,
+    "Avg_PremisedBaited": 4.35,
+    "Avg_PremiseswGarbage": 4.66,
+    "Avg_PremiseswRats": 3.03,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 2,
+    "Rep_Location": "(41.92887795840842, -87.66161643587479)",
+    "RQCount": 6128,
+    "Avg_DaysToComplete": 25.31,
+    "Avg_PremisedBaited": 6.9,
+    "Avg_PremiseswGarbage": 3.38,
+    "Avg_PremiseswRats": 2.12,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 3,
+    "Rep_Location": "(41.86743185624515, -87.6258298625096)",
+    "RQCount": 2865,
+    "Avg_DaysToComplete": 15.31,
+    "Avg_PremisedBaited": 1.25,
+    "Avg_PremiseswGarbage": 3.04,
+    "Avg_PremiseswRats": 1.93,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 4,
+    "Rep_Location": "(41.87817592607141, -87.62767706285362)",
+    "RQCount": 1710,
+    "Avg_DaysToComplete": 15.66,
+    "Avg_PremisedBaited": 0.78,
+    "Avg_PremiseswGarbage": 1.85,
+    "Avg_PremiseswRats": 1.18,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 5,
+    "Rep_Location": "(41.80577958142147, -87.58648451728556)",
+    "RQCount": 2318,
+    "Avg_DaysToComplete": 14.63,
+    "Avg_PremisedBaited": 0.87,
+    "Avg_PremiseswGarbage": 2.41,
+    "Avg_PremiseswRats": 1.2,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 6,
+    "Rep_Location": "(41.77609278628114, -87.6459084600748)",
+    "RQCount": 3461,
+    "Avg_DaysToComplete": 17.16,
+    "Avg_PremisedBaited": 1.2,
+    "Avg_PremiseswGarbage": 3.4,
+    "Avg_PremiseswRats": 1.95,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 7,
+    "Rep_Location": "(41.76628558911062, -87.56281541251687)",
+    "RQCount": 1593,
+    "Avg_DaysToComplete": 16.78,
+    "Avg_PremisedBaited": 1.54,
+    "Avg_PremiseswGarbage": 2.89,
+    "Avg_PremiseswRats": 1.45,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 8,
+    "Rep_Location": "(41.76604341885313, -87.59020998847244)",
+    "RQCount": 2389,
+    "Avg_DaysToComplete": 16.67,
+    "Avg_PremisedBaited": 0.91,
+    "Avg_PremiseswGarbage": 2.83,
+    "Avg_PremiseswRats": 1.5,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 9,
+    "Rep_Location": "(41.736549499900505, -87.61145438724267)",
+    "RQCount": 1966,
+    "Avg_DaysToComplete": 14.22,
+    "Avg_PremisedBaited": 0.91,
+    "Avg_PremiseswGarbage": 2.82,
+    "Avg_PremiseswRats": 1.67,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 10,
+    "Rep_Location": "(41.746270444643386, -87.55036440772716)",
+    "RQCount": 1029,
+    "Avg_DaysToComplete": 16.29,
+    "Avg_PremisedBaited": 0.92,
+    "Avg_PremiseswGarbage": 2.9,
+    "Avg_PremiseswRats": 1.27,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 11,
+    "Rep_Location": "(41.869555964363876, -87.64955443632711)",
+    "RQCount": 6270,
+    "Avg_DaysToComplete": 18.16,
+    "Avg_PremisedBaited": 1.8,
+    "Avg_PremiseswGarbage": 3.23,
+    "Avg_PremiseswRats": 2.19,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 12,
+    "Rep_Location": "(41.85713484165718, -87.69682503421096)",
+    "RQCount": 2704,
+    "Avg_DaysToComplete": 18.55,
+    "Avg_PremisedBaited": 11.7,
+    "Avg_PremiseswGarbage": 4.13,
+    "Avg_PremiseswRats": 2.77,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 13,
+    "Rep_Location": "(41.79323720439861, -87.72071120311918)",
+    "RQCount": 7825,
+    "Avg_DaysToComplete": 21.5,
+    "Avg_PremisedBaited": 1.62,
+    "Avg_PremiseswGarbage": 2.56,
+    "Avg_PremiseswRats": 1.89,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 14,
+    "Rep_Location": "(41.82441493024783, -87.72042847426584)",
+    "RQCount": 3976,
+    "Avg_DaysToComplete": 19.19,
+    "Avg_PremisedBaited": 2.1,
+    "Avg_PremiseswGarbage": 3.73,
+    "Avg_PremiseswRats": 2.3,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 15,
+    "Rep_Location": "(41.81828983745463, -87.7019050999128)",
+    "RQCount": 4637,
+    "Avg_DaysToComplete": 15.23,
+    "Avg_PremisedBaited": 1.93,
+    "Avg_PremiseswGarbage": 4.7,
+    "Avg_PremiseswRats": 2.6,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 16,
+    "Rep_Location": "(41.80496360566928, -87.6648670627475)",
+    "RQCount": 4349,
+    "Avg_DaysToComplete": 20.13,
+    "Avg_PremisedBaited": 1.54,
+    "Avg_PremiseswGarbage": 4.34,
+    "Avg_PremiseswRats": 2.2,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 17,
+    "Rep_Location": "(41.779075275147356, -87.69618270798844)",
+    "RQCount": 6323,
+    "Avg_DaysToComplete": 19.39,
+    "Avg_PremisedBaited": 1.76,
+    "Avg_PremiseswGarbage": 4.17,
+    "Avg_PremiseswRats": 2.14,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 18,
+    "Rep_Location": "(41.768257168177556, -87.68823655076338)",
+    "RQCount": 4763,
+    "Avg_DaysToComplete": 18.69,
+    "Avg_PremisedBaited": 1.33,
+    "Avg_PremiseswGarbage": 2.21,
+    "Avg_PremiseswRats": 1.69,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 19,
+    "Rep_Location": "(41.73314060123802, -87.67635461380603)",
+    "RQCount": 2307,
+    "Avg_DaysToComplete": 14.89,
+    "Avg_PremisedBaited": 0.7,
+    "Avg_PremiseswGarbage": 1.29,
+    "Avg_PremiseswRats": 1.02,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 20,
+    "Rep_Location": "(41.81220759745714, -87.66871405393685)",
+    "RQCount": 2828,
+    "Avg_DaysToComplete": 16.36,
+    "Avg_PremisedBaited": 1.42,
+    "Avg_PremiseswGarbage": 3.98,
+    "Avg_PremiseswRats": 2.17,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 21,
+    "Rep_Location": "(41.75046128358876, -87.65616422810238)",
+    "RQCount": 3137,
+    "Avg_DaysToComplete": 18.17,
+    "Avg_PremisedBaited": 1.24,
+    "Avg_PremiseswGarbage": 2.78,
+    "Avg_PremiseswRats": 1.7,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 22,
+    "Rep_Location": "(41.85175176433413, -87.70647176842769)",
+    "RQCount": 2440,
+    "Avg_DaysToComplete": 17.57,
+    "Avg_PremisedBaited": 2.27,
+    "Avg_PremiseswGarbage": 4.7,
+    "Avg_PremiseswRats": 2.87,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 23,
+    "Rep_Location": "(41.81496068824828, -87.74091957238609)",
+    "RQCount": 3996,
+    "Avg_DaysToComplete": 19.62,
+    "Avg_PremisedBaited": 1.52,
+    "Avg_PremiseswGarbage": 2.32,
+    "Avg_PremiseswRats": 2.05,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 24,
+    "Rep_Location": "(41.876961279970565, -87.7357698015387)",
+    "RQCount": 5159,
+    "Avg_DaysToComplete": 16.77,
+    "Avg_PremisedBaited": 1.84,
+    "Avg_PremiseswGarbage": 4.83,
+    "Avg_PremiseswRats": 2.42,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 25,
+    "Rep_Location": "(41.8818529422325, -87.6520361196068)",
+    "RQCount": 2366,
+    "Avg_DaysToComplete": 16.91,
+    "Avg_PremisedBaited": 2.28,
+    "Avg_PremiseswGarbage": 4.53,
+    "Avg_PremiseswRats": 2.86,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 26,
+    "Rep_Location": "(41.92829647471691, -87.71379489674375)",
+    "RQCount": 5669,
+    "Avg_DaysToComplete": 16.7,
+    "Avg_PremisedBaited": 2.39,
+    "Avg_PremiseswGarbage": 4.38,
+    "Avg_PremiseswRats": 3.12,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 27,
+    "Rep_Location": "(41.91113097866244, -87.63745661747076)",
+    "RQCount": 5198,
+    "Avg_DaysToComplete": 16.95,
+    "Avg_PremisedBaited": 1.72,
+    "Avg_PremiseswGarbage": 4.05,
+    "Avg_PremiseswRats": 2.43,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 28,
+    "Rep_Location": "(41.89531904383376, -87.72873553736625)",
+    "RQCount": 5728,
+    "Avg_DaysToComplete": 17.84,
+    "Avg_PremisedBaited": 1.89,
+    "Avg_PremiseswGarbage": 4.98,
+    "Avg_PremiseswRats": 2.67,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 29,
+    "Rep_Location": "(41.94080749655247, -87.80437097255223)",
+    "RQCount": 3138,
+    "Avg_DaysToComplete": 19.64,
+    "Avg_PremisedBaited": 1.55,
+    "Avg_PremiseswGarbage": 3.53,
+    "Avg_PremiseswRats": 2.25,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 30,
+    "Rep_Location": "(41.95145094105536, -87.72847641237142)",
+    "RQCount": 5319,
+    "Avg_DaysToComplete": 18,
+    "Avg_PremisedBaited": 2.12,
+    "Avg_PremiseswGarbage": 3.77,
+    "Avg_PremiseswRats": 2.82,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 31,
+    "Rep_Location": "(41.94609033553299, -87.74967682186248)",
+    "RQCount": 4402,
+    "Avg_DaysToComplete": 17.78,
+    "Avg_PremisedBaited": 2.02,
+    "Avg_PremiseswGarbage": 3.56,
+    "Avg_PremiseswRats": 2.73,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 32,
+    "Rep_Location": "(41.94697797132495, -87.66984043025916)",
+    "RQCount": 11552,
+    "Avg_DaysToComplete": 19.86,
+    "Avg_PremisedBaited": 2.38,
+    "Avg_PremiseswGarbage": 3.58,
+    "Avg_PremiseswRats": 2.63,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 33,
+    "Rep_Location": "(41.97576064951214, -87.70686864071864)",
+    "RQCount": 5268,
+    "Avg_DaysToComplete": 17.54,
+    "Avg_PremisedBaited": 1.94,
+    "Avg_PremiseswGarbage": 3.55,
+    "Avg_PremiseswRats": 2.47,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 34,
+    "Rep_Location": "(41.71784465456726, -87.64190213948694)",
+    "RQCount": 3364,
+    "Avg_DaysToComplete": 13.47,
+    "Avg_PremisedBaited": 8.75,
+    "Avg_PremiseswGarbage": 2.87,
+    "Avg_PremiseswRats": 1.91,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 35,
+    "Rep_Location": "(41.969407572675244, -87.72072665911045)",
+    "RQCount": 8903,
+    "Avg_DaysToComplete": 18.48,
+    "Avg_PremisedBaited": 2.34,
+    "Avg_PremiseswGarbage": 4.13,
+    "Avg_PremiseswRats": 2.87,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 36,
+    "Rep_Location": "(41.96574489714642, -87.83888112005181)",
+    "RQCount": 4599,
+    "Avg_DaysToComplete": 16.11,
+    "Avg_PremisedBaited": 1.57,
+    "Avg_PremiseswGarbage": 2.79,
+    "Avg_PremiseswRats": 2.04,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 37,
+    "Rep_Location": "(41.924494446014876, -87.77209022970743)",
+    "RQCount": 4827,
+    "Avg_DaysToComplete": 16.58,
+    "Avg_PremisedBaited": 1.99,
+    "Avg_PremiseswGarbage": 4.3,
+    "Avg_PremiseswRats": 2.82,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 38,
+    "Rep_Location": "(41.968527261530674, -87.7787102918237)",
+    "RQCount": 4939,
+    "Avg_DaysToComplete": 17.6,
+    "Avg_PremisedBaited": 1.5,
+    "Avg_PremiseswGarbage": 2.62,
+    "Avg_PremiseswRats": 1.63,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 39,
+    "Rep_Location": "(41.99726162021159, -87.72298146795634)",
+    "RQCount": 6051,
+    "Avg_DaysToComplete": 18.72,
+    "Avg_PremisedBaited": 1.58,
+    "Avg_PremiseswGarbage": 2.71,
+    "Avg_PremiseswRats": 1.89,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 40,
+    "Rep_Location": "(42.00544582843603, -87.66639851578253)",
+    "RQCount": 5121,
+    "Avg_DaysToComplete": 18.45,
+    "Avg_PremisedBaited": 1.67,
+    "Avg_PremiseswGarbage": 3.01,
+    "Avg_PremiseswRats": 2.16,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 41,
+    "Rep_Location": "(42.018749497888514, -87.81632744124458)",
+    "RQCount": 2509,
+    "Avg_DaysToComplete": 20.94,
+    "Avg_PremisedBaited": 0.66,
+    "Avg_PremiseswGarbage": 2.33,
+    "Avg_PremiseswRats": 0.85,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 42,
+    "Rep_Location": "(41.91119312332215, -87.63080154566387)",
+    "RQCount": 2209,
+    "Avg_DaysToComplete": 11.51,
+    "Avg_PremisedBaited": 0.98,
+    "Avg_PremiseswGarbage": 1.37,
+    "Avg_PremiseswRats": 1.05,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 43,
+    "Rep_Location": "(41.93290169015034, -87.63978673393007)",
+    "RQCount": 7274,
+    "Avg_DaysToComplete": 17.48,
+    "Avg_PremisedBaited": 2.15,
+    "Avg_PremiseswGarbage": 3.22,
+    "Avg_PremiseswRats": 2.5,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 44,
+    "Rep_Location": "(41.95448108371099, -87.65498230188601)",
+    "RQCount": 7001,
+    "Avg_DaysToComplete": 16.76,
+    "Avg_PremisedBaited": 2.33,
+    "Avg_PremiseswGarbage": 3.76,
+    "Avg_PremiseswRats": 2.81,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 45,
+    "Rep_Location": "(41.998318783816046, -87.76194337990668)",
+    "RQCount": 4939,
+    "Avg_DaysToComplete": 19.05,
+    "Avg_PremisedBaited": 2.49,
+    "Avg_PremiseswGarbage": 2.42,
+    "Avg_PremiseswRats": 1.56,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 46,
+    "Rep_Location": "(41.97630885187251, -87.66078349818504)",
+    "RQCount": 2648,
+    "Avg_DaysToComplete": 18.55,
+    "Avg_PremisedBaited": 1.37,
+    "Avg_PremiseswGarbage": 2.46,
+    "Avg_PremiseswRats": 1.79,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 47,
+    "Rep_Location": "(41.97630504046615, -87.66102295083651)",
+    "RQCount": 7389,
+    "Avg_DaysToComplete": 18.31,
+    "Avg_PremisedBaited": 1.51,
+    "Avg_PremiseswGarbage": 2.91,
+    "Avg_PremiseswRats": 1.94,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 48,
+    "Rep_Location": "(41.99818919160101, -87.66054502331293)",
+    "RQCount": 2775,
+    "Avg_DaysToComplete": 16.43,
+    "Avg_PremisedBaited": 1.74,
+    "Avg_PremiseswGarbage": 12.38,
+    "Avg_PremiseswRats": 2.25,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 49,
+    "Rep_Location": "(42.022537368525384, -87.67544271087803)",
+    "RQCount": 3744,
+    "Avg_DaysToComplete": 18.81,
+    "Avg_PremisedBaited": 1.88,
+    "Avg_PremiseswGarbage": 2.78,
+    "Avg_PremiseswRats": 2.35,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 50,
+    "Rep_Location": "(42.01952843147525, -87.69017356957058)",
+    "RQCount": 10368,
+    "Avg_DaysToComplete": 16.7,
+    "Avg_PremisedBaited": 2.47,
+    "Avg_PremiseswGarbage": 3.23,
+    "Avg_PremiseswRats": 2.96,
+    "RankGroup": 3
+  }
+]

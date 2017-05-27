@@ -1,0 +1,470 @@
+[
+  {
+    "Ward": null,
+    "Rep_Location": "(41.986824903479246, -87.71387353853862)",
+    "RQCount": 81,
+    "TreeTrimsCount": 44,
+    "TreeDebrisCount": 37,
+    "Avg_DaysToComplete": 60.72,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 0,
+    "Rep_Location": "(42.019522730184505, -87.688607698532)",
+    "RQCount": 83,
+    "TreeTrimsCount": 58,
+    "TreeDebrisCount": 25,
+    "Avg_DaysToComplete": 18.16,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 1,
+    "Rep_Location": "(41.94039017921245, -87.68599692394221)",
+    "RQCount": 5082,
+    "TreeTrimsCount": 4108,
+    "TreeDebrisCount": 974,
+    "Avg_DaysToComplete": 148.36,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 2,
+    "Rep_Location": "(41.92887915551736, -87.66153961818651)",
+    "RQCount": 4946,
+    "TreeTrimsCount": 4202,
+    "TreeDebrisCount": 744,
+    "Avg_DaysToComplete": 46.42,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 3,
+    "Rep_Location": "(41.867484216989546, -87.62255587141608)",
+    "RQCount": 5279,
+    "TreeTrimsCount": 3416,
+    "TreeDebrisCount": 1863,
+    "Avg_DaysToComplete": 41.1,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 4,
+    "Rep_Location": "(41.94694013700759, -87.75505439169919)",
+    "RQCount": 4296,
+    "TreeTrimsCount": 3085,
+    "TreeDebrisCount": 1211,
+    "Avg_DaysToComplete": 64.04,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 5,
+    "Rep_Location": "(41.80577958142147, -87.58648451728556)",
+    "RQCount": 5575,
+    "TreeTrimsCount": 4015,
+    "TreeDebrisCount": 1560,
+    "Avg_DaysToComplete": 86.12,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 6,
+    "Rep_Location": "(41.776039189256146, -87.6483355320453)",
+    "RQCount": 11774,
+    "TreeTrimsCount": 6470,
+    "TreeDebrisCount": 5304,
+    "Avg_DaysToComplete": 139.47,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 7,
+    "Rep_Location": "(41.766312693703355, -87.56470533126155)",
+    "RQCount": 11629,
+    "TreeTrimsCount": 6633,
+    "TreeDebrisCount": 4996,
+    "Avg_DaysToComplete": 130.33,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 8,
+    "Rep_Location": "(41.76601529245313, -87.59094846758485)",
+    "RQCount": 14667,
+    "TreeTrimsCount": 9131,
+    "TreeDebrisCount": 5536,
+    "Avg_DaysToComplete": 127.15,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 9,
+    "Rep_Location": "(41.7365284855573, -87.61278201416235)",
+    "RQCount": 13813,
+    "TreeTrimsCount": 7441,
+    "TreeDebrisCount": 6372,
+    "Avg_DaysToComplete": 114.71,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 10,
+    "Rep_Location": "(41.74631663031294, -87.55145669554152)",
+    "RQCount": 9609,
+    "TreeTrimsCount": 6027,
+    "TreeDebrisCount": 3582,
+    "Avg_DaysToComplete": 118.65,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 11,
+    "Rep_Location": "(41.87186865185333, -87.65171987994776)",
+    "RQCount": 9055,
+    "TreeTrimsCount": 7651,
+    "TreeDebrisCount": 1404,
+    "Avg_DaysToComplete": 157.68,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 12,
+    "Rep_Location": "(41.967602987217994, -87.70078914795069)",
+    "RQCount": 4135,
+    "TreeTrimsCount": 3400,
+    "TreeDebrisCount": 735,
+    "Avg_DaysToComplete": 118.84,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 13,
+    "Rep_Location": "(41.793227989069656, -87.72146977484272)",
+    "RQCount": 5168,
+    "TreeTrimsCount": 3212,
+    "TreeDebrisCount": 1956,
+    "Avg_DaysToComplete": 128.09,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 14,
+    "Rep_Location": "(41.82417472602487, -87.71474475733402)",
+    "RQCount": 6871,
+    "TreeTrimsCount": 5793,
+    "TreeDebrisCount": 1078,
+    "Avg_DaysToComplete": 217.08,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 15,
+    "Rep_Location": "(41.81907846465536, -87.69949356484881)",
+    "RQCount": 7626,
+    "TreeTrimsCount": 5199,
+    "TreeDebrisCount": 2427,
+    "Avg_DaysToComplete": 134.22,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 16,
+    "Rep_Location": "(41.80466417037069, -87.66729716283467)",
+    "RQCount": 6294,
+    "TreeTrimsCount": 4232,
+    "TreeDebrisCount": 2062,
+    "Avg_DaysToComplete": 114.72,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 17,
+    "Rep_Location": "(41.77909190778826, -87.69506570803495)",
+    "RQCount": 8883,
+    "TreeTrimsCount": 5004,
+    "TreeDebrisCount": 3879,
+    "Avg_DaysToComplete": 114.39,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 18,
+    "Rep_Location": "(41.77182376052036, -87.69320594284754)",
+    "RQCount": 12878,
+    "TreeTrimsCount": 7996,
+    "TreeDebrisCount": 4882,
+    "Avg_DaysToComplete": 139.3,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 19,
+    "Rep_Location": "(41.735527283684846, -87.68251403592834)",
+    "RQCount": 22338,
+    "TreeTrimsCount": 9589,
+    "TreeDebrisCount": 12749,
+    "Avg_DaysToComplete": 94.42,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 20,
+    "Rep_Location": "(41.81221710893138, -87.66751037844362)",
+    "RQCount": 5633,
+    "TreeTrimsCount": 3689,
+    "TreeDebrisCount": 1944,
+    "Avg_DaysToComplete": 87.67,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 21,
+    "Rep_Location": "(41.75049014447653, -87.65424710905872)",
+    "RQCount": 13407,
+    "TreeTrimsCount": 8595,
+    "TreeDebrisCount": 4812,
+    "Avg_DaysToComplete": 151.49,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 22,
+    "Rep_Location": "(41.85173424474898, -87.70787328954579)",
+    "RQCount": 4894,
+    "TreeTrimsCount": 3996,
+    "TreeDebrisCount": 898,
+    "Avg_DaysToComplete": 173.41,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 23,
+    "Rep_Location": "(41.81494326493548, -87.7421584936238)",
+    "RQCount": 9510,
+    "TreeTrimsCount": 7478,
+    "TreeDebrisCount": 2032,
+    "Avg_DaysToComplete": 158.78,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 24,
+    "Rep_Location": "(41.87695704210564, -87.73611573549896)",
+    "RQCount": 5341,
+    "TreeTrimsCount": 3685,
+    "TreeDebrisCount": 1656,
+    "Avg_DaysToComplete": 77.75,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 25,
+    "Rep_Location": "(41.8830987118012, -87.65007409394804)",
+    "RQCount": 4030,
+    "TreeTrimsCount": 3517,
+    "TreeDebrisCount": 513,
+    "Avg_DaysToComplete": 69.06,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 26,
+    "Rep_Location": "(41.92782484115297, -87.71585436664122)",
+    "RQCount": 4859,
+    "TreeTrimsCount": 4049,
+    "TreeDebrisCount": 810,
+    "Avg_DaysToComplete": 108.89,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 27,
+    "Rep_Location": "(41.91112146170978, -87.63812745398441)",
+    "RQCount": 4250,
+    "TreeTrimsCount": 3102,
+    "TreeDebrisCount": 1148,
+    "Avg_DaysToComplete": 95.54,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 28,
+    "Rep_Location": "(41.89535322649611, -87.72689127433406)",
+    "RQCount": 7782,
+    "TreeTrimsCount": 3750,
+    "TreeDebrisCount": 4032,
+    "Avg_DaysToComplete": 71.05,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 29,
+    "Rep_Location": "(41.941525617069026, -87.80792410037357)",
+    "RQCount": 7922,
+    "TreeTrimsCount": 5121,
+    "TreeDebrisCount": 2801,
+    "Avg_DaysToComplete": 131.43,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 30,
+    "Rep_Location": "(41.951832574577836, -87.72913746305892)",
+    "RQCount": 6174,
+    "TreeTrimsCount": 4689,
+    "TreeDebrisCount": 1485,
+    "Avg_DaysToComplete": 160.66,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 31,
+    "Rep_Location": "(41.946050225086815, -87.7528883401083)",
+    "RQCount": 5092,
+    "TreeTrimsCount": 4112,
+    "TreeDebrisCount": 980,
+    "Avg_DaysToComplete": 121.8,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 32,
+    "Rep_Location": "(41.94697797132495, -87.66984043025916)",
+    "RQCount": 8132,
+    "TreeTrimsCount": 6519,
+    "TreeDebrisCount": 1613,
+    "Avg_DaysToComplete": 160.36,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 33,
+    "Rep_Location": "(41.97575619347513, -87.70746040768029)",
+    "RQCount": 4742,
+    "TreeTrimsCount": 3819,
+    "TreeDebrisCount": 923,
+    "Avg_DaysToComplete": 202.99,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 34,
+    "Rep_Location": "(41.71789248612639, -87.63826227956437)",
+    "RQCount": 18899,
+    "TreeTrimsCount": 10797,
+    "TreeDebrisCount": 8102,
+    "Avg_DaysToComplete": 103.45,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 35,
+    "Rep_Location": "(41.97016753438573, -87.71834626838908)",
+    "RQCount": 5262,
+    "TreeTrimsCount": 4070,
+    "TreeDebrisCount": 1192,
+    "Avg_DaysToComplete": 161.77,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 36,
+    "Rep_Location": "(41.966540475525335, -87.83979368240695)",
+    "RQCount": 11079,
+    "TreeTrimsCount": 8020,
+    "TreeDebrisCount": 3059,
+    "Avg_DaysToComplete": 172.58,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 37,
+    "Rep_Location": "(41.925727809254276, -87.77104280320947)",
+    "RQCount": 8519,
+    "TreeTrimsCount": 5330,
+    "TreeDebrisCount": 3189,
+    "Avg_DaysToComplete": 122.15,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 38,
+    "Rep_Location": "(41.968493320104876, -87.78140617943347)",
+    "RQCount": 11148,
+    "TreeTrimsCount": 8077,
+    "TreeDebrisCount": 3071,
+    "Avg_DaysToComplete": 173.52,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 39,
+    "Rep_Location": "(41.997391076696665, -87.78411067460216)",
+    "RQCount": 8859,
+    "TreeTrimsCount": 6090,
+    "TreeDebrisCount": 2769,
+    "Avg_DaysToComplete": 159.86,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 40,
+    "Rep_Location": "(42.00544582843603, -87.66639851578253)",
+    "RQCount": 8329,
+    "TreeTrimsCount": 6874,
+    "TreeDebrisCount": 1455,
+    "Avg_DaysToComplete": 164.27,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 41,
+    "Rep_Location": "(42.018934465157585, -87.80795318273239)",
+    "RQCount": 14464,
+    "TreeTrimsCount": 8533,
+    "TreeDebrisCount": 5931,
+    "Avg_DaysToComplete": 166.93,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 42,
+    "Rep_Location": "(41.91037921070025, -87.63242703122722)",
+    "RQCount": 691,
+    "TreeTrimsCount": 599,
+    "TreeDebrisCount": 92,
+    "Avg_DaysToComplete": 63.35,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 43,
+    "Rep_Location": "(41.932910970506605, -87.63932430377326)",
+    "RQCount": 3758,
+    "TreeTrimsCount": 3195,
+    "TreeDebrisCount": 563,
+    "Avg_DaysToComplete": 166.49,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 44,
+    "Rep_Location": "(41.95447315490379, -87.65545935687348)",
+    "RQCount": 3796,
+    "TreeTrimsCount": 3371,
+    "TreeDebrisCount": 425,
+    "Avg_DaysToComplete": 173.73,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 45,
+    "Rep_Location": "(41.99841558267886, -87.76214963560739)",
+    "RQCount": 12122,
+    "TreeTrimsCount": 8762,
+    "TreeDebrisCount": 3360,
+    "Avg_DaysToComplete": 189.42,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 46,
+    "Rep_Location": "(41.97630767292692, -87.66086331477571)",
+    "RQCount": 1973,
+    "TreeTrimsCount": 1551,
+    "TreeDebrisCount": 422,
+    "Avg_DaysToComplete": 80.02,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 47,
+    "Rep_Location": "(41.976296400244195, -87.66160962077309)",
+    "RQCount": 8275,
+    "TreeTrimsCount": 6855,
+    "TreeDebrisCount": 1420,
+    "Avg_DaysToComplete": 191.45,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 48,
+    "Rep_Location": "(41.99813514786073, -87.6655419749002)",
+    "RQCount": 3664,
+    "TreeTrimsCount": 2918,
+    "TreeDebrisCount": 746,
+    "Avg_DaysToComplete": 158.61,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 49,
+    "Rep_Location": "(42.02267035719698, -87.66583148616135)",
+    "RQCount": 3420,
+    "TreeTrimsCount": 2182,
+    "TreeDebrisCount": 1238,
+    "Avg_DaysToComplete": 125.35,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 50,
+    "Rep_Location": "(42.01950289108205, -87.69142551766664)",
+    "RQCount": 8570,
+    "TreeTrimsCount": 5499,
+    "TreeDebrisCount": 3071,
+    "Avg_DaysToComplete": 151,
+    "RankGroup": 2
+  }
+]

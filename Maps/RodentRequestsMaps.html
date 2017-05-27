@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+   <head>
+      <title>311 Rodent Baitment Requests</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+      
+      <script type="text/javascript" src="https://dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0"></script>      
+      <script type="text/javascript">
+
+         var map = null;
+         var sasdata = null;
+         
+         $.getJSON("Data/RodentRequestsMapPoints.json", function(json) {
+            sasdata = json;
+            console.log(sasdata);
+         });
+         
+         function loadMap() {
+            
+            // Initialize the map
+            map = new Microsoft.Maps.Map(document.getElementById("myMap"),
+                         {credentials:"myBingMapsKey",
+                          showScalebar: false});           
+    
+            // Create the entity collection with the pins
+            var chiPins = new Microsoft.Maps.EntityCollection();
+            
+            // Create the info box for the pushpin
+            var infoboxLayer = new Microsoft.Maps.EntityCollection();
+            pinInfobox = new Microsoft.Maps.Infobox(new Microsoft.Maps.Location(0, 0), {  maxHeight: 100, visible: false });
+            infoboxLayer.push(pinInfobox);
+            
+            // Iterate through json for all Chicago Wards data
+            for (var key in sasdata) {
+              if (sasdata.hasOwnProperty(key)) {
+               
+                  var latlonarray = sasdata[key].Rep_Location.replace(/\(|\)/g, "").split(',');
+                  
+                  // Conditionaly Set PushPin Images
+                  switch(sasdata[key].RankGroup) {
+                      case 1:
+                          var img = {icon: 'Images/BingMapsSkyBlue.png', visible: true};
+                          break;
+                      case 2:
+                          var img = null;
+                          break;
+                      case 3:
+                          var img = {icon: 'Images/BingMapsDarkRed.png', visible: true};
+                          break;                        
+                  } 
+                  
+                  // Define the pushpin location
+                  var pin = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(parseFloat(latlonarray[0]), parseFloat(latlonarray[1])), img);
+                  
+                  pin.Title = "Ward: " + sasdata[key].Ward;                                                             //usually title of the infobox
+                  pin.Description = "No. of Requests: " + sasdata[key].RQCount + "<br>" +
+                                    "Avg. Days to Complete: " + sasdata[key].Avg_DaysToComplete + "<br>" +              //information you want to display in the infobox
+                                    "Avg. Premises Baited: " + sasdata[key].Avg_PremisedBaited + "<br>" +
+                                    "Avg. Premises with Garbage: " + sasdata[key].Avg_PremiseswGarbage + "<br>" +
+                                    "Avg. Premises with Rats: " + sasdata[key].Avg_PremiseswRats;
+                  Microsoft.Maps.Events.addHandler(pin, 'click', displayInfobox);
+                  
+                  chiPins.push(pin);
+              }
+            }        
+       
+            map.entities.push(chiPins);
+            map.entities.push(infoboxLayer);
+            
+            // Center the map on the location
+            var chiCenter = new Microsoft.Maps.Location(41.881832, -87.623177);
+            map.setView({center: chiCenter, zoom: 10});
+         }
+  
+         function displayInfobox(e) {
+             pinInfobox.setOptions({title: e.target.Title, description: e.target.Description, visible:true, offset: new Microsoft.Maps.Point(0,25)});
+             pinInfobox.setLocation(e.target.getLocation());
+         }
+    
+         function hideInfobox(e) {
+             pinInfobox.setOptions({ visible: false });
+         }
+         
+         window.onload = loadMap;
+      </script>
+      
+      <style type="text/css">
+         #title {            
+            width: 1250px;            
+            margin: 0 50px 0 50px;                    
+         }
+         
+         #pad {
+            height: 10px;
+         }
+         
+         #imgfloat {
+            position: relative;
+            z-index: 100;
+            float: left;
+         }
+         
+         #wrapper {            
+            width: 850px;            
+            border: 2px solid #CCCCCC;
+            border-radius: 5px;
+            padding: 0 25px;
+            margin: 0 auto;        
+            font-family: arial;
+            text-align: center;
+         }
+         
+         h2 {
+            margin: 0 auto;
+            padding: 5px;
+         }
+         
+         h3 {
+            margin: 0 auto;
+            color: #A9A9A9;
+         }
+         
+         #markers {
+            margin: 0 auto;
+            border: 2px solid #CCCCCC;
+            border-radius: 5px;
+            width: 600px;            
+         }        
+         tr {
+            padding: 0 0 0 0;
+         }
+         td {
+            font-size: 14px;
+            text-align: center;
+         }
+         
+         #myMap {
+            margin: 0 50px 0 50px;
+            border: 2px solid #CCCCCC;
+            border-radius: 5px;
+         }
+         
+         #footer{
+            text-align: right;
+            color: #A9A9A9;
+            font-family: arial;
+            font-size: 12px;
+            width: 1250px;
+            padding: 5px;
+         }
+      </style>
+   </head>
+   <body>
+      <div id="title">
+         <div id="wrapper">
+            <div id="imgfloat"><img src="Images/ChiTitleIcon.png" alt="Chicago Flag Icon" height="100px"/></div><h2>Rodent Baiting, 2011 - 2016</h2><h3>City of Chicago, 311 Service Requests</h3>
+            <div id="pad"></div>
+            <table id="markers">
+               <tr>
+                  <td>Less than 30th Percentile -   <img src="Images/BingMapsSkyBlue.png" height="20px" alt="Blue Marker"/></td>
+                  <td>31 - 60th Percentile -   <img src="Images/BingMapsOrange.png" height="20px" alt="Orange Marker"/></td>
+                  <td>Above 60th Percentile -   <img src="Images/BingMapsDarkRed.png" height="20px" alt="Red Marker"/></td>    
+               </tr>
+            </table>
+            <div id="pad"></div>
+         </div>
+      </div>
+      <div id="pad"></div>
+      <div id='myMap' style="position:relative; width:1250px; height:500px;"></div>
+      <div id="footer">Source: Chicago of City, Open Data Portal</div>
+   </body>
+</html>

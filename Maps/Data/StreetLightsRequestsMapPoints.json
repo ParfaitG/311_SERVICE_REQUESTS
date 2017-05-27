@@ -1,0 +1,470 @@
+[
+  {
+    "Ward": null,
+    "Rep_Location": "(42.00659443852228, -87.70273526400624)",
+    "RQCount": 396,
+    "AllLightsCount": 111,
+    "OneLightCount": 285,
+    "Avg_DaysToComplete": 11.9,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 0,
+    "Rep_Location": "(42.019484773332856,-87.68465309467676)",
+    "RQCount": 1193,
+    "AllLightsCount": 644,
+    "OneLightCount": 549,
+    "Avg_DaysToComplete": 9.98,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 1,
+    "Rep_Location": "(41.94036771121256,-87.68778335154812)",
+    "RQCount": 8233,
+    "AllLightsCount": 3349,
+    "OneLightCount": 4884,
+    "Avg_DaysToComplete": 12.55,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 2,
+    "Rep_Location": "(41.92884724128454,-87.66350255044121)",
+    "RQCount": 11848,
+    "AllLightsCount": 6217,
+    "OneLightCount": 5631,
+    "Avg_DaysToComplete": 11.74,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 3,
+    "Rep_Location": "(41.867505201584216,-87.62095343851455)",
+    "RQCount": 8847,
+    "AllLightsCount": 4373,
+    "OneLightCount": 4474,
+    "Avg_DaysToComplete": 8.56,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 4,
+    "Rep_Location": "(41.87817592607141,-87.62767706285362)",
+    "RQCount": 7751,
+    "AllLightsCount": 3622,
+    "OneLightCount": 4129,
+    "Avg_DaysToComplete": 9.6,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 5,
+    "Rep_Location": "(41.80634459681909, -87.58579631819727)",
+    "RQCount": 11896,
+    "AllLightsCount": 5625,
+    "OneLightCount": 6271,
+    "Avg_DaysToComplete": 11.03,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 6,
+    "Rep_Location": "(41.77609278628114,-87.6459084600748)",
+    "RQCount": 24996,
+    "AllLightsCount": 12076,
+    "OneLightCount": 12920,
+    "Avg_DaysToComplete": 10.22,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 7,
+    "Rep_Location": "(41.766312693703355,-87.56470533126155)",
+    "RQCount": 19930,
+    "AllLightsCount": 9183,
+    "OneLightCount": 10747,
+    "Avg_DaysToComplete": 10.57,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 8,
+    "Rep_Location": "(41.76601530935335,-87.59099355390241)",
+    "RQCount": 21431,
+    "AllLightsCount": 9583,
+    "OneLightCount": 11848,
+    "Avg_DaysToComplete": 10.25,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 9,
+    "Rep_Location": "(41.73653101892798,-87.61261711057574)",
+    "RQCount": 21878,
+    "AllLightsCount": 10188,
+    "OneLightCount": 11690,
+    "Avg_DaysToComplete": 8.4,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 10,
+    "Rep_Location": "(41.74649057424472,-87.55036979484969)",
+    "RQCount": 22561,
+    "AllLightsCount": 10396,
+    "OneLightCount": 12165,
+    "Avg_DaysToComplete": 10.42,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 11,
+    "Rep_Location": "(41.87441592389959,-87.64926586567452)",
+    "RQCount": 9652,
+    "AllLightsCount": 4335,
+    "OneLightCount": 5317,
+    "Avg_DaysToComplete": 7.78,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 12,
+    "Rep_Location": "(41.86117464142075,-87.69575068083871)",
+    "RQCount": 8627,
+    "AllLightsCount": 4208,
+    "OneLightCount": 4419,
+    "Avg_DaysToComplete": 9.16,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 13,
+    "Rep_Location": "(41.793232808683804, -87.72107062390005)",
+    "RQCount": 13873,
+    "AllLightsCount": 4860,
+    "OneLightCount": 9013,
+    "Avg_DaysToComplete": 11.98,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 14,
+    "Rep_Location": "(41.82523544790601,-87.72410619176348)",
+    "RQCount": 8543,
+    "AllLightsCount": 3638,
+    "OneLightCount": 4905,
+    "Avg_DaysToComplete": 9.99,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 15,
+    "Rep_Location": "(41.819078875829746,-87.6994686142833)",
+    "RQCount": 10810,
+    "AllLightsCount": 4957,
+    "OneLightCount": 5853,
+    "Avg_DaysToComplete": 9.37,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 16,
+    "Rep_Location": "(41.80496360566928, -87.6648670627475)",
+    "RQCount": 13113,
+    "AllLightsCount": 5720,
+    "OneLightCount": 7393,
+    "Avg_DaysToComplete": 10.58,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 17,
+    "Rep_Location": "(41.77915273710666,-87.69095854547977)",
+    "RQCount": 18277,
+    "AllLightsCount": 8212,
+    "OneLightCount": 10065,
+    "Avg_DaysToComplete": 10.78,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 18,
+    "Rep_Location": "(41.77182376052036,-87.69320594284754)",
+    "RQCount": 21936,
+    "AllLightsCount": 9155,
+    "OneLightCount": 12781,
+    "Avg_DaysToComplete": 8.96,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 19,
+    "Rep_Location": "(41.73565634487312,-87.67311308297101)",
+    "RQCount": 20307,
+    "AllLightsCount": 8034,
+    "OneLightCount": 12273,
+    "Avg_DaysToComplete": 11.45,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 20,
+    "Rep_Location": "(41.81221710893138,-87.66751037844362)",
+    "RQCount": 14631,
+    "AllLightsCount": 6373,
+    "OneLightCount": 8258,
+    "Avg_DaysToComplete": 9.66,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 21,
+    "Rep_Location": "(41.75049728393917,-87.65373727504597)",
+    "RQCount": 24385,
+    "AllLightsCount": 9804,
+    "OneLightCount": 14581,
+    "Avg_DaysToComplete": 10.17,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 22,
+    "Rep_Location": "(41.851919334955,-87.7114648008119)",
+    "RQCount": 7802,
+    "AllLightsCount": 3228,
+    "OneLightCount": 4574,
+    "Avg_DaysToComplete": 9.82,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 23,
+    "Rep_Location": "(41.81712568675942, -87.7434098102693)",
+    "RQCount": 16108,
+    "AllLightsCount": 6565,
+    "OneLightCount": 9543,
+    "Avg_DaysToComplete": 9.86,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 24,
+    "Rep_Location": "(41.87696241055644,-87.73567064926826)",
+    "RQCount": 14848,
+    "AllLightsCount": 6813,
+    "OneLightCount": 8035,
+    "Avg_DaysToComplete": 11.48,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 25,
+    "Rep_Location": "(41.8820683490725,-87.65877024847902)",
+    "RQCount": 12264,
+    "AllLightsCount": 5998,
+    "OneLightCount": 6266,
+    "Avg_DaysToComplete": 9.52,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 26,
+    "Rep_Location": "(41.928300780951666, -87.71342332698677)",
+    "RQCount": 8438,
+    "AllLightsCount": 4026,
+    "OneLightCount": 4412,
+    "Avg_DaysToComplete": 10.57,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 27,
+    "Rep_Location": "(41.9111611196059,-87.63475383415148)",
+    "RQCount": 12926,
+    "AllLightsCount": 5641,
+    "OneLightCount": 7285,
+    "Avg_DaysToComplete": 12.93,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 28,
+    "Rep_Location": "(41.89522693205567, -87.73368039734804)",
+    "RQCount": 16047,
+    "AllLightsCount": 7397,
+    "OneLightCount": 8650,
+    "Avg_DaysToComplete": 11.5,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 29,
+    "Rep_Location": "(41.94148849511319,-87.80687050353134)",
+    "RQCount": 11511,
+    "AllLightsCount": 4917,
+    "OneLightCount": 6594,
+    "Avg_DaysToComplete": 11.77,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 30,
+    "Rep_Location": "(41.95093351764605, -87.72753230026251)",
+    "RQCount": 7886,
+    "AllLightsCount": 3312,
+    "OneLightCount": 4574,
+    "Avg_DaysToComplete": 9.23,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 31,
+    "Rep_Location": "(41.94612247458916,-87.74719585833121)",
+    "RQCount": 7186,
+    "AllLightsCount": 2801,
+    "OneLightCount": 4385,
+    "Avg_DaysToComplete": 8.68,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 32,
+    "Rep_Location": "(41.94698768435376,-87.66905445102232)",
+    "RQCount": 8390,
+    "AllLightsCount": 3651,
+    "OneLightCount": 4739,
+    "Avg_DaysToComplete": 10.1,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 33,
+    "Rep_Location": "(41.975774130733434, -87.70477086773553)",
+    "RQCount": 5092,
+    "AllLightsCount": 1921,
+    "OneLightCount": 3171,
+    "Avg_DaysToComplete": 8.45,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 34,
+    "Rep_Location": "(41.71790702691322,-87.63705214851966)",
+    "RQCount": 23746,
+    "AllLightsCount": 10577,
+    "OneLightCount": 13169,
+    "Avg_DaysToComplete": 8.89,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 35,
+    "Rep_Location": "(41.96937768490448,-87.71828252773231)",
+    "RQCount": 7342,
+    "AllLightsCount": 3447,
+    "OneLightCount": 3895,
+    "Avg_DaysToComplete": 9.44,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 36,
+    "Rep_Location": "(41.96659715545861,-87.83668207229253)",
+    "RQCount": 13089,
+    "AllLightsCount": 5701,
+    "OneLightCount": 7388,
+    "Avg_DaysToComplete": 9.21,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 37,
+    "Rep_Location": "(41.92497467998738, -87.77210680834158)",
+    "RQCount": 12191,
+    "AllLightsCount": 5325,
+    "OneLightCount": 6866,
+    "Avg_DaysToComplete": 11.79,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 38,
+    "Rep_Location": "(41.96852091618613,-87.77922962781682)",
+    "RQCount": 13412,
+    "AllLightsCount": 5454,
+    "OneLightCount": 7958,
+    "Avg_DaysToComplete": 8.71,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 39,
+    "Rep_Location": "(41.99743276214889, -87.77778712306902)",
+    "RQCount": 8350,
+    "AllLightsCount": 3745,
+    "OneLightCount": 4605,
+    "Avg_DaysToComplete": 8.73,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 40,
+    "Rep_Location": "(42.00545640442235,-87.66590464444765)",
+    "RQCount": 5969,
+    "AllLightsCount": 2890,
+    "OneLightCount": 3079,
+    "Avg_DaysToComplete": 5.66,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 41,
+    "Rep_Location": "(42.01893883154196,-87.8077680388477)",
+    "RQCount": 12349,
+    "AllLightsCount": 4899,
+    "OneLightCount": 7450,
+    "Avg_DaysToComplete": 9.51,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 42,
+    "Rep_Location": "(41.91121282474081, -87.62950735544567)",
+    "RQCount": 6310,
+    "AllLightsCount": 2670,
+    "OneLightCount": 3640,
+    "Avg_DaysToComplete": 11.6,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 43,
+    "Rep_Location": "(41.932910970506605,-87.63932430377326)",
+    "RQCount": 5978,
+    "AllLightsCount": 2829,
+    "OneLightCount": 3149,
+    "Avg_DaysToComplete": 11.17,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 44,
+    "Rep_Location": "(41.954462052293444,-87.65613555631174)",
+    "RQCount": 4182,
+    "AllLightsCount": 1546,
+    "OneLightCount": 2636,
+    "Avg_DaysToComplete": 8.25,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 45,
+    "Rep_Location": "(41.998318783816046,-87.76194337990668)",
+    "RQCount": 10877,
+    "AllLightsCount": 4525,
+    "OneLightCount": 6352,
+    "Avg_DaysToComplete": 8.43,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 46,
+    "Rep_Location": "(41.97631003076258,-87.66070368159217)",
+    "RQCount": 3072,
+    "AllLightsCount": 1361,
+    "OneLightCount": 1711,
+    "Avg_DaysToComplete": 8.52,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 47,
+    "Rep_Location": "(41.97630504046615,-87.66102295083651)",
+    "RQCount": 7829,
+    "AllLightsCount": 3230,
+    "OneLightCount": 4599,
+    "Avg_DaysToComplete": 7.58,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 48,
+    "Rep_Location": "(41.998227540412316, -87.65706259345454)",
+    "RQCount": 3627,
+    "AllLightsCount": 1709,
+    "OneLightCount": 1918,
+    "Avg_DaysToComplete": 7.35,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 49,
+    "Rep_Location": "(42.02292682597172, -87.66541491792017)",
+    "RQCount": 3338,
+    "AllLightsCount": 1428,
+    "OneLightCount": 1910,
+    "Avg_DaysToComplete": 7.46,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 50,
+    "Rep_Location": "(42.01952843147525,-87.69017356957058)",
+    "RQCount": 6993,
+    "AllLightsCount": 2739,
+    "OneLightCount": 4254,
+    "Avg_DaysToComplete": 7.39,
+    "RankGroup": 1
+  }
+]

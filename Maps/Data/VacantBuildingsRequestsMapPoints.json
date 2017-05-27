@@ -1,0 +1,522 @@
+[
+  {
+    "Ward": null,
+    "Rep_Location": "(41.81575148506871, -87.6230094062979)",
+    "RQCount": 31,
+    "BoardedCount": 2,
+    "PeopleUsingCount": 3,
+    "DueToFireCount": 1,
+    "OccupiedCount": 0,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 0,
+    "Rep_Location": "(41.97732420181187, -87.8303090213483)",
+    "RQCount": 10,
+    "BoardedCount": 1,
+    "PeopleUsingCount": 2,
+    "DueToFireCount": 2,
+    "OccupiedCount": 0,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 1,
+    "Rep_Location": "(41.93945844953661, -87.68842727346438)",
+    "RQCount": 342,
+    "BoardedCount": 46,
+    "PeopleUsingCount": 105,
+    "DueToFireCount": 11,
+    "OccupiedCount": 7,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 2,
+    "Rep_Location": "(41.91162755025588, -87.6793958418339)",
+    "RQCount": 608,
+    "BoardedCount": 63,
+    "PeopleUsingCount": 271,
+    "DueToFireCount": 43,
+    "OccupiedCount": 6,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 3,
+    "Rep_Location": "(41.861277660487964, -87.62568601174998)",
+    "RQCount": 1246,
+    "BoardedCount": 152,
+    "PeopleUsingCount": 496,
+    "DueToFireCount": 86,
+    "OccupiedCount": 14,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 4,
+    "Rep_Location": "(41.875626599372495, -87.62919717180701)",
+    "RQCount": 390,
+    "BoardedCount": 55,
+    "PeopleUsingCount": 133,
+    "DueToFireCount": 15,
+    "OccupiedCount": 6,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 5,
+    "Rep_Location": "(41.802350611590306, -87.59818714303462)",
+    "RQCount": 751,
+    "BoardedCount": 78,
+    "PeopleUsingCount": 323,
+    "DueToFireCount": 54,
+    "OccupiedCount": 7,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 6,
+    "Rep_Location": "(41.77602216381893, -87.65076387881041)",
+    "RQCount": 2639,
+    "BoardedCount": 375,
+    "PeopleUsingCount": 1058,
+    "DueToFireCount": 179,
+    "OccupiedCount": 36,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 7,
+    "Rep_Location": "(41.76628558911062, -87.56281541251687)",
+    "RQCount": 2455,
+    "BoardedCount": 325,
+    "PeopleUsingCount": 933,
+    "DueToFireCount": 139,
+    "OccupiedCount": 37,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 8,
+    "Rep_Location": "(41.76604341885313, -87.59020998847244)",
+    "RQCount": 2018,
+    "BoardedCount": 252,
+    "PeopleUsingCount": 777,
+    "DueToFireCount": 106,
+    "OccupiedCount": 17,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 9,
+    "Rep_Location": "(41.73647292240852, -87.61661217160187)",
+    "RQCount": 2308,
+    "BoardedCount": 240,
+    "PeopleUsingCount": 838,
+    "DueToFireCount": 134,
+    "OccupiedCount": 26,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 10,
+    "Rep_Location": "(41.745233115948906, -87.55143216026478)",
+    "RQCount": 1401,
+    "BoardedCount": 143,
+    "PeopleUsingCount": 646,
+    "DueToFireCount": 107,
+    "OccupiedCount": 15,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 11,
+    "Rep_Location": "(41.86113601405793, -87.65651867682155)",
+    "RQCount": 557,
+    "BoardedCount": 59,
+    "PeopleUsingCount": 139,
+    "DueToFireCount": 50,
+    "OccupiedCount": 9,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 12,
+    "Rep_Location": "(41.854737949864216, -87.69097397106044)",
+    "RQCount": 478,
+    "BoardedCount": 36,
+    "PeopleUsingCount": 226,
+    "DueToFireCount": 56,
+    "OccupiedCount": 3,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 13,
+    "Rep_Location": "(41.792694118474316, -87.73295096893885)",
+    "RQCount": 343,
+    "BoardedCount": 80,
+    "PeopleUsingCount": 94,
+    "DueToFireCount": 13,
+    "OccupiedCount": 7,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 14,
+    "Rep_Location": "(41.823642149985666, -87.69745217588633)",
+    "RQCount": 760,
+    "BoardedCount": 50,
+    "PeopleUsingCount": 390,
+    "DueToFireCount": 49,
+    "OccupiedCount": 5,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 15,
+    "Rep_Location": "(41.81903045516612, -87.70230780856868)",
+    "RQCount": 2958,
+    "BoardedCount": 270,
+    "PeopleUsingCount": 1409,
+    "DueToFireCount": 340,
+    "OccupiedCount": 40,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 16,
+    "Rep_Location": "(41.80494101704168, -87.6673047493809)",
+    "RQCount": 3470,
+    "BoardedCount": 377,
+    "PeopleUsingCount": 1233,
+    "DueToFireCount": 265,
+    "OccupiedCount": 38,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 17,
+    "Rep_Location": "(41.77904372783475, -87.69826640085422)",
+    "RQCount": 4158,
+    "BoardedCount": 439,
+    "PeopleUsingCount": 1723,
+    "DueToFireCount": 279,
+    "OccupiedCount": 47,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 18,
+    "Rep_Location": "(41.77172602804262, -87.69928431053748)",
+    "RQCount": 931,
+    "BoardedCount": 94,
+    "PeopleUsingCount": 378,
+    "DueToFireCount": 43,
+    "OccupiedCount": 14,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 19,
+    "Rep_Location": "(41.733858553803934, -87.67637110537828)",
+    "RQCount": 376,
+    "BoardedCount": 39,
+    "PeopleUsingCount": 82,
+    "DueToFireCount": 13,
+    "OccupiedCount": 6,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 20,
+    "Rep_Location": "(41.81205033462338, -87.66992231236605)",
+    "RQCount": 2215,
+    "BoardedCount": 234,
+    "PeopleUsingCount": 905,
+    "DueToFireCount": 173,
+    "OccupiedCount": 36,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 21,
+    "Rep_Location": "(41.75042580448443, -87.65858958622954)",
+    "RQCount": 1991,
+    "BoardedCount": 292,
+    "PeopleUsingCount": 833,
+    "DueToFireCount": 105,
+    "OccupiedCount": 26,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 22,
+    "Rep_Location": "(41.851660605357296, -87.71525737740201)",
+    "RQCount": 486,
+    "BoardedCount": 36,
+    "PeopleUsingCount": 228,
+    "DueToFireCount": 45,
+    "OccupiedCount": 16,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 23,
+    "Rep_Location": "(41.812482761954584, -87.75062994874202)",
+    "RQCount": 330,
+    "BoardedCount": 36,
+    "PeopleUsingCount": 121,
+    "DueToFireCount": 20,
+    "OccupiedCount": 2,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 24,
+    "Rep_Location": "(41.87695563672359, -87.73621489031216)",
+    "RQCount": 2474,
+    "BoardedCount": 182,
+    "PeopleUsingCount": 988,
+    "DueToFireCount": 175,
+    "OccupiedCount": 26,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 25,
+    "Rep_Location": "(41.874068100519864, -87.65681557576998)",
+    "RQCount": 431,
+    "BoardedCount": 43,
+    "PeopleUsingCount": 170,
+    "DueToFireCount": 40,
+    "OccupiedCount": 13,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 26,
+    "Rep_Location": "(41.92472182797686, -87.7064253600856)",
+    "RQCount": 565,
+    "BoardedCount": 68,
+    "PeopleUsingCount": 218,
+    "DueToFireCount": 40,
+    "OccupiedCount": 7,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 27,
+    "Rep_Location": "(41.90966418934066, -87.63565755344237)",
+    "RQCount": 1521,
+    "BoardedCount": 141,
+    "PeopleUsingCount": 766,
+    "DueToFireCount": 136,
+    "OccupiedCount": 16,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 28,
+    "Rep_Location": "(41.895077620939894, -87.74221864460486)",
+    "RQCount": 3048,
+    "BoardedCount": 236,
+    "PeopleUsingCount": 1756,
+    "DueToFireCount": 215,
+    "OccupiedCount": 32,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 29,
+    "Rep_Location": "(41.939659761865855, -87.81449157685444)",
+    "RQCount": 881,
+    "BoardedCount": 78,
+    "PeopleUsingCount": 433,
+    "DueToFireCount": 57,
+    "OccupiedCount": 3,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 30,
+    "Rep_Location": "(41.95069948672136, -87.74500061360686)",
+    "RQCount": 493,
+    "BoardedCount": 73,
+    "PeopleUsingCount": 232,
+    "DueToFireCount": 26,
+    "OccupiedCount": 15,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 31,
+    "Rep_Location": "(41.94360415497613, -87.75193210468153)",
+    "RQCount": 389,
+    "BoardedCount": 39,
+    "PeopleUsingCount": 177,
+    "DueToFireCount": 22,
+    "OccupiedCount": 8,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 32,
+    "Rep_Location": "(41.94697797132495, -87.66984043025916)",
+    "RQCount": 308,
+    "BoardedCount": 47,
+    "PeopleUsingCount": 82,
+    "DueToFireCount": 14,
+    "OccupiedCount": 3,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 33,
+    "Rep_Location": "(41.971155190437734, -87.70610919177642)",
+    "RQCount": 252,
+    "BoardedCount": 27,
+    "PeopleUsingCount": 65,
+    "DueToFireCount": 7,
+    "OccupiedCount": 3,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 34,
+    "Rep_Location": "(41.716950994832054, -87.64917444858952)",
+    "RQCount": 3576,
+    "BoardedCount": 436,
+    "PeopleUsingCount": 1363,
+    "DueToFireCount": 245,
+    "OccupiedCount": 33,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 35,
+    "Rep_Location": "(41.96886085991944, -87.72193307290203)",
+    "RQCount": 429,
+    "BoardedCount": 41,
+    "PeopleUsingCount": 174,
+    "DueToFireCount": 20,
+    "OccupiedCount": 13,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 36,
+    "Rep_Location": "(41.96372288089242, -87.84587668879742)",
+    "RQCount": 389,
+    "BoardedCount": 49,
+    "PeopleUsingCount": 112,
+    "DueToFireCount": 14,
+    "OccupiedCount": 3,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 37,
+    "Rep_Location": "(41.92475299709501, -87.77209935514361)",
+    "RQCount": 1433,
+    "BoardedCount": 127,
+    "PeopleUsingCount": 701,
+    "DueToFireCount": 112,
+    "OccupiedCount": 18,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 38,
+    "Rep_Location": "(41.96848502965185, -87.78207954103718)",
+    "RQCount": 225,
+    "BoardedCount": 24,
+    "PeopleUsingCount": 68,
+    "DueToFireCount": 5,
+    "OccupiedCount": 5,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 39,
+    "Rep_Location": "(41.995664030650325, -87.73011371381988)",
+    "RQCount": 164,
+    "BoardedCount": 11,
+    "PeopleUsingCount": 42,
+    "DueToFireCount": 5,
+    "OccupiedCount": 0,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 40,
+    "Rep_Location": "(42.00240682027877, -87.6668738273748)",
+    "RQCount": 151,
+    "BoardedCount": 10,
+    "PeopleUsingCount": 38,
+    "DueToFireCount": 8,
+    "OccupiedCount": 1,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 41,
+    "Rep_Location": "(42.0188411075353, -87.81208790187769)",
+    "RQCount": 133,
+    "BoardedCount": 22,
+    "PeopleUsingCount": 27,
+    "DueToFireCount": 3,
+    "OccupiedCount": 2,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 42,
+    "Rep_Location": "(41.91012704613003, -87.63017424597983)",
+    "RQCount": 46,
+    "BoardedCount": 7,
+    "PeopleUsingCount": 8,
+    "DueToFireCount": 2,
+    "OccupiedCount": 0,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 43,
+    "Rep_Location": "(41.93208531868355, -87.64098089909747)",
+    "RQCount": 99,
+    "BoardedCount": 15,
+    "PeopleUsingCount": 26,
+    "DueToFireCount": 5,
+    "OccupiedCount": 2,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 44,
+    "Rep_Location": "(41.95255887526531, -87.66240980674341)",
+    "RQCount": 72,
+    "BoardedCount": 3,
+    "PeopleUsingCount": 13,
+    "DueToFireCount": 0,
+    "OccupiedCount": 0,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 45,
+    "Rep_Location": "(41.99493076613871, -87.78437604612694)",
+    "RQCount": 204,
+    "BoardedCount": 21,
+    "PeopleUsingCount": 34,
+    "DueToFireCount": 13,
+    "OccupiedCount": 0,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 46,
+    "Rep_Location": "(41.97630206566943, -87.66121789555949)",
+    "RQCount": 84,
+    "BoardedCount": 22,
+    "PeopleUsingCount": 14,
+    "DueToFireCount": 5,
+    "OccupiedCount": 1,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 47,
+    "Rep_Location": "(41.976166068658486, -87.67003638867838)",
+    "RQCount": 169,
+    "BoardedCount": 20,
+    "PeopleUsingCount": 50,
+    "DueToFireCount": 10,
+    "OccupiedCount": 3,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 48,
+    "Rep_Location": "(41.996869608168794, -87.65847431442563)",
+    "RQCount": 73,
+    "BoardedCount": 9,
+    "PeopleUsingCount": 15,
+    "DueToFireCount": 8,
+    "OccupiedCount": 0,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 49,
+    "Rep_Location": "(42.02224533626021, -87.66836671283691)",
+    "RQCount": 64,
+    "BoardedCount": 9,
+    "PeopleUsingCount": 18,
+    "DueToFireCount": 2,
+    "OccupiedCount": 1,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 50,
+    "Rep_Location": "(42.01867267556003, -87.69489077408774)",
+    "RQCount": 144,
+    "BoardedCount": 10,
+    "PeopleUsingCount": 38,
+    "DueToFireCount": 16,
+    "OccupiedCount": 2,
+    "RankGroup": 1
+  }
+]

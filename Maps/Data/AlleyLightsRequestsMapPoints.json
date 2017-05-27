@@ -1,0 +1,366 @@
+[
+  {
+    "Ward": null,
+    "Rep_Location": "(41.72710146694757, -87.59611423956873)",
+    "RQCount": 41,
+    "Avg_DaysToComplete": 28.93,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 0,
+    "Rep_Location": "(42.01943663900139, -87.6790370003087)",
+    "RQCount": 47,
+    "Avg_DaysToComplete": 38.87,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 1,
+    "Rep_Location": "(41.94038924438643, -87.68607448749019)",
+    "RQCount": 2413,
+    "Avg_DaysToComplete": 50,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 2,
+    "Rep_Location": "(41.92883304500756, -87.66440909205123)",
+    "RQCount": 1590,
+    "Avg_DaysToComplete": 48.31,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 3,
+    "Rep_Location": "(41.86579989937592, -87.62251317849116)",
+    "RQCount": 1682,
+    "Avg_DaysToComplete": 32.09,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 4,
+    "Rep_Location": "(41.87817592607141, -87.62767706285362)",
+    "RQCount": 1260,
+    "Avg_DaysToComplete": 31.82,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 5,
+    "Rep_Location": "(41.80577958142147, -87.58648451728556)",
+    "RQCount": 2343,
+    "Avg_DaysToComplete": 42.52,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 6,
+    "Rep_Location": "(41.77550670988932, -87.64832103447421)",
+    "RQCount": 5317,
+    "Avg_DaysToComplete": 35.4,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 7,
+    "Rep_Location": "(41.766277343965086, -87.56467202984591)",
+    "RQCount": 4509,
+    "Avg_DaysToComplete": 35.4,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 8,
+    "Rep_Location": "(41.76603157777509, -87.5902885683376)",
+    "RQCount": 6300,
+    "Avg_DaysToComplete": 30.05,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 9,
+    "Rep_Location": "(41.73655748085453, -87.61097762496853)",
+    "RQCount": 5308,
+    "Avg_DaysToComplete": 36.51,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 10,
+    "Rep_Location": "(41.74644288763343, -87.55145956093996)",
+    "RQCount": 5755,
+    "Avg_DaysToComplete": 34.17,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 11,
+    "Rep_Location": "(41.87007904196474, -87.64697462350733)",
+    "RQCount": 3207,
+    "Avg_DaysToComplete": 22.22,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 12,
+    "Rep_Location": "(41.8547307126044, -87.69149564153273)",
+    "RQCount": 3042,
+    "Avg_DaysToComplete": 45.21,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 13,
+    "Rep_Location": "(41.793193237995666, -87.7245166100527)",
+    "RQCount": 7811,
+    "Avg_DaysToComplete": 31.19,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 14,
+    "Rep_Location": "(41.82663686981173, -87.71475338078494)",
+    "RQCount": 3621,
+    "Avg_DaysToComplete": 31.35,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 15,
+    "Rep_Location": "(41.81906694148336, -87.70019071321843)",
+    "RQCount": 2894,
+    "Avg_DaysToComplete": 40.85,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 16,
+    "Rep_Location": "(41.80496360566928, -87.6648670627475)",
+    "RQCount": 2796,
+    "Avg_DaysToComplete": 37.92,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 17,
+    "Rep_Location": "(41.779143681166644, -87.69154781454553)",
+    "RQCount": 4104,
+    "Avg_DaysToComplete": 36.39,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 18,
+    "Rep_Location": "(41.76827141908814, -87.68728837390971)",
+    "RQCount": 5858,
+    "Avg_DaysToComplete": 31.44,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 19,
+    "Rep_Location": "(41.73191800028531, -87.67752528924348)",
+    "RQCount": 3818,
+    "Avg_DaysToComplete": 38.08,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 20,
+    "Rep_Location": "(41.81220759745714, -87.66871405393685)",
+    "RQCount": 2604,
+    "Avg_DaysToComplete": 40.6,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 21,
+    "Rep_Location": "(41.75048006238068, -87.65495277629702)",
+    "RQCount": 6043,
+    "Avg_DaysToComplete": 34.2,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 22,
+    "Rep_Location": "(41.851719465671344, -87.70914908093957)",
+    "RQCount": 2662,
+    "Avg_DaysToComplete": 34.16,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 23,
+    "Rep_Location": "(41.81496068824828, -87.74091957238609)",
+    "RQCount": 6581,
+    "Avg_DaysToComplete": 25.93,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 24,
+    "Rep_Location": "(41.876966226354675, -87.73534932102754)",
+    "RQCount": 2690,
+    "Avg_DaysToComplete": 49.56,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 25,
+    "Rep_Location": "(41.88196802151738, -87.65087365284595)",
+    "RQCount": 2330,
+    "Avg_DaysToComplete": 39.08,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 26,
+    "Rep_Location": "(41.928275899252576, -87.71544428067132)",
+    "RQCount": 2635,
+    "Avg_DaysToComplete": 42.29,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 27,
+    "Rep_Location": "(41.91021660534968, -87.65552233744023)",
+    "RQCount": 2388,
+    "Avg_DaysToComplete": 51.91,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 28,
+    "Rep_Location": "(41.895367031100584, -87.72611906416905)",
+    "RQCount": 3462,
+    "Avg_DaysToComplete": 45.99,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 29,
+    "Rep_Location": "(41.9404566203123, -87.8055922256246)",
+    "RQCount": 3215,
+    "Avg_DaysToComplete": 42.52,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 30,
+    "Rep_Location": "(41.95069171625763, -87.74557306095241)",
+    "RQCount": 2711,
+    "Avg_DaysToComplete": 38.94,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 31,
+    "Rep_Location": "(41.94522450384914, -87.75048679912877)",
+    "RQCount": 2660,
+    "Avg_DaysToComplete": 35.82,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 32,
+    "Rep_Location": "(41.94697069066365, -87.67038527802016)",
+    "RQCount": 2423,
+    "Avg_DaysToComplete": 43.27,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 33,
+    "Rep_Location": "(41.97486602921758, -87.70623911627466)",
+    "RQCount": 2259,
+    "Avg_DaysToComplete": 46.72,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 34,
+    "Rep_Location": "(41.717575459755274, -87.6469610282265)",
+    "RQCount": 7085,
+    "Avg_DaysToComplete": 30.09,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 35,
+    "Rep_Location": "(41.970163207174835, -87.71876809210671)",
+    "RQCount": 2715,
+    "Avg_DaysToComplete": 44.08,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 36,
+    "Rep_Location": "(41.96659715545861, -87.83668207229253)",
+    "RQCount": 4051,
+    "Avg_DaysToComplete": 33.3,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 37,
+    "Rep_Location": "(41.92497467998738, -87.77210680834158)",
+    "RQCount": 4032,
+    "Avg_DaysToComplete": 33.73,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 38,
+    "Rep_Location": "(41.96851256759991, -87.77988828177956)",
+    "RQCount": 4028,
+    "Avg_DaysToComplete": 35.84,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 39,
+    "Rep_Location": "(41.99739994599072, -87.78289185642993)",
+    "RQCount": 2793,
+    "Avg_DaysToComplete": 48.35,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 40,
+    "Rep_Location": "(42.005391718218554, -87.66956739384443)",
+    "RQCount": 1918,
+    "Avg_DaysToComplete": 30.28,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 41,
+    "Rep_Location": "(42.01893883154196, -87.8077680388477)",
+    "RQCount": 3512,
+    "Avg_DaysToComplete": 34.78,
+    "RankGroup": 2
+  },
+  {
+    "Ward": 42,
+    "Rep_Location": "(41.90965165615231, -87.63015962487731)",
+    "RQCount": 281,
+    "Avg_DaysToComplete": 39.42,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 43,
+    "Rep_Location": "(41.932853800945324, -87.64220293817911)",
+    "RQCount": 1152,
+    "Avg_DaysToComplete": 38.69,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 44,
+    "Rep_Location": "(41.95447845467774, -87.65514114836297)",
+    "RQCount": 1174,
+    "Avg_DaysToComplete": 37.3,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 45,
+    "Rep_Location": "(41.998318783816046, -87.76194337990668)",
+    "RQCount": 4010,
+    "Avg_DaysToComplete": 36.16,
+    "RankGroup": 3
+  },
+  {
+    "Ward": 46,
+    "Rep_Location": "(41.976303861354, -87.66110276742016)",
+    "RQCount": 765,
+    "Avg_DaysToComplete": 38.4,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 47,
+    "Rep_Location": "(41.976264946360985, -87.66369361193819)",
+    "RQCount": 2302,
+    "Avg_DaysToComplete": 42.28,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 48,
+    "Rep_Location": "(41.998202411895356, -87.65936030345203)",
+    "RQCount": 1134,
+    "Avg_DaysToComplete": 37.46,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 49,
+    "Rep_Location": "(42.02252560302642, -87.67215519631989)",
+    "RQCount": 1228,
+    "Avg_DaysToComplete": 33.38,
+    "RankGroup": 1
+  },
+  {
+    "Ward": 50,
+    "Rep_Location": "(42.019458597403755, -87.69351079211224)",
+    "RQCount": 2262,
+    "Avg_DaysToComplete": 33.99,
+    "RankGroup": 1
+  }
+]
