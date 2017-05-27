@@ -16,5 +16,7 @@ Requirements:
 
 Source: [City of Chicago - Open Data Portal](https://data.cityofchicago.org/) 
 
+![alt text](Maps/Images/ChiMapsReportsScreenshot.png "Maps and Reports Screenshot")
+
 
 
